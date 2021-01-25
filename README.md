@@ -28,7 +28,7 @@
 
 
   <p align="center" >
- <p> Glaxy Fold</p >
+
   <img align="center" src="https://github.com/hesspearl/adventure/blob/master/images/readme/page1.jpg"/>
   </p>
  <br>
