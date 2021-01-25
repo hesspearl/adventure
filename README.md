@@ -29,7 +29,7 @@
 
   <p align="center" >
  <p> Glaxy Fold</p >
-  <img align="center" src="https://github.com/hesspearl/AppTheme/blob/master/images/gifs/galaxyFold.gif"/>
+  <img align="center" src="https://github.com/hesspearl/adventure/blob/master/images/readme/page1.jpg"/>
   </p>
  <br>
 
